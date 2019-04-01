@@ -1,0 +1,32 @@
+{
+  "name": "talkspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0"
+  },
+  "description": "introduction to your website.............",
+  "main": "up.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhanyisoHaman/talkspace-blog.git"
+  },
+  "keywords": [
+    "talkspace-blog"
+  ],
+  "author": "Khanyiso Haman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhanyisoHaman/talkspace-blog/issues"
+  },
+  "homepage": "https://github.com/KhanyisoHaman/talkspace-blog#readme"
+}
