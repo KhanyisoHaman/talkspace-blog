@@ -6,6 +6,19 @@ var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
+var createRouter = require('./routes/create');
+var viewRouter = require('./routes/view');
+var updateRouter = require('./routes/update');
+var deleteRouter = require('./routes/delete');
+
+// var routes = [
+//   require('./routes/index'),
+//   require('./routes/users'),
+//   require('./routes/create'),
+//   require('./routes/view'),
+//   require('./routes/update'),
+//   require('./routes/delete'),
+// ]
 
 var app = express();
 
@@ -20,7 +33,8 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
-app.use('/users', usersRouter);
+app.use('/', usersRouter);
+
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
@@ -38,4 +52,9 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
-module.exports = app;
+// module.exports = app;
+// app.listen(8080);
+
+const PORT = process.env.PORT || 8080;
+
+app.listen(PORT, console.log(`Server running on ${PORT} ..`))

@@ -1,4 +1,4 @@
-# Talkspace-Blog
+# Example-Blog
 
 introduction to your website.............
 
@@ -29,7 +29,7 @@ conclusion..........
 
 ## Live Link
 
--  https.......
+-  http://example-blog-example-blog.1d35.starter-us-east-1.openshiftapps.com/
 
 ## Prevalent Technologies Used
 
@@ -72,10 +72,20 @@ Tools:
 - 
 - 
 
-2019-04-01:
+2019-04-02:
+- Created SASS Folders
 - 
-- 
-- 
+
+2019-04-3
+- Created header
+- created nav
+- created body
+- grid layouts
+
+2019-04-4
+- create back to top
+- create dynamic html
+- learn how to style dynamic html
 
 ## Contributors
 

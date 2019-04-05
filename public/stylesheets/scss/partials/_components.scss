@@ -1,0 +1,19 @@
+
+#button {
+    transition: background-color 0.5s, visibility 0.7s, opacity 0.7s;
+    background-color: #00B7FF;
+    border-radius: 50%;
+    text-align: center;
+    position: fixed;
+    padding: 10px 15px;
+    z-index: 500;
+    right: 25px;
+    top: 530px;
+    font-size: 30px;
+    color: white;
+}
+
+#button:hover {
+    box-shadow: 2px 2px 2px black;
+    text-shadow: 2px 2px 2px black;
+}

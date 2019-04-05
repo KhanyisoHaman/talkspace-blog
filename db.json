@@ -3,29 +3,52 @@
     "posts": [
         {
             "id": 1,
-            "date": "2",
-            "title": "",
-            "image":  "url" ,
-            "description": "" ,
-            "author": ""
+            "date": "12 March 2018",
+            "title": "Baby Daddy",
+            "image":  "/images/baby-22194_1920.jpg" ,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, earum aliquid non maiores maxime sit aspernatur, culpa temporibus accusamus quis animi deleniti nostrum! Doloremque pariatur deleniti labore, velit nisi quo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis ut beatae aut blanditiis, saepe non, quibusdam eligendi consequuntur doloribus iure neque officiis autem molestias, architecto quidem! Omnis eius dolores sequi!" ,
+            "author": "Justin"
         },
 
         {
             "id": 2,
-            "date": "",
-            "title": "",
-            "image":  "url" ,
-            "description": "" ,
-            "author": ""
+            "date": "13 March",
+            "title": "Love Life",
+            "image":  "/images/people-2561053_1920.jpg" ,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, earum aliquid non maiores maxime sit aspernatur, culpa temporibus accusamus quis animi deleniti nostrum! Doloremque pariatur deleniti labore, velit nisi quo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis ut beatae aut blanditiis, saepe non, quibusdam eligendi consequuntur doloribus iure neque officiis autem molestias, architecto quidem! Omnis eius dolores sequi!" ,
+            "author": "Westy"
         },
 
         {
             "id": 3,
-            "date": "2",
-            "title": "",
-            "image":  "url" ,
-            "description": "" ,
-            "author": ""
+            "date": "14 March 2018",
+            "title": "Praise and Worship",
+            "image":  "/images/audience-868074_1920.jpg" ,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, earum aliquid non maiores maxime sit aspernatur, culpa temporibus accusamus quis animi deleniti nostrum! Doloremque pariatur deleniti labore, velit nisi quo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis ut beatae aut blanditiis, saepe non, quibusdam eligendi consequuntur doloribus iure neque officiis autem molestias, architecto quidem! Omnis eius dolores sequi!" ,
+            "author": "Imraan"
+        }
+    ],
+
+    "users": [
+        {
+            "id": 1,
+            "username": "",
+            "email": "",
+            "password": ""
+        },
+
+        {
+            "id": 2,
+            "username": "",
+            "email": "",
+            "password": ""
+        },
+
+        {
+            "id": 3,
+            "username": "",
+            "email": "",
+            "password": ""
         }
     ]
 

@@ -1,0 +1,251 @@
+// CLASSES AND ID's
+
+.hero {
+    width: 70%;
+    margin-left: 10%;
+    margin-top: 10%;
+    color: white;
+
+    h1 {
+        text-transform: capitalize;
+        font-size: 50px;
+    }
+
+    p {
+        width: 80%;
+        font-size: 20px;
+    }
+}
+
+.find {
+    border-style: solid;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #00B7FF;
+    color: white;
+    border-width: thin;
+    text-transform: uppercase;
+}
+
+.intro {
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    grid-gap: 30px;
+    padding: 15vh 0vh 15vh 43vh;
+    height: 40vh;
+
+    .intro-image {
+        width: 100%;
+        height: 300px;
+
+        img {
+            width: 450px;
+            height: 300px;
+            border-radius: 10px;
+        }
+    }
+
+    .intro-text {
+            width: 500px;
+            height: 300px;
+    }
+
+    .info {
+        color: #999999;
+        margin: 0;
+    }
+
+    h1 {
+        font-size: 25px;
+        margin: 0 auto;
+        text-transform: uppercase;
+        text-align: center;
+    }
+
+    hr {
+        border-style: solid;
+        border-color: #00B7FF;
+        width: 150px;
+    }
+
+    p {
+        margin-top: 20px;
+        color: #797373;
+        font-size: 17px;
+        margin-bottom: 40px;
+    }
+
+     a {
+        text-decoration: none;
+        color: #00B7FF;
+        border-bottom: 3px solid #00B7FF;
+        border-radius: 2px;
+        font-size: 17px;
+     }
+
+}
+
+.second-blog {
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    grid-gap: 30px;
+    padding: 15vh 43vh 15vh 5vh;
+    height: 40vh;
+
+    .sec-image {
+        width: 100%;
+        height: 300px;
+
+        img {
+            width: 450px;
+            height: 300px;
+            border-radius: 10px;
+        }
+    }
+
+    .sec-text {
+            width: 500px;
+            height: 300px;
+    }
+
+    h1 {
+        font-size: 25px;
+        margin: 0 auto;
+        text-transform: uppercase;
+        text-align: center;
+    }
+
+    hr {
+        border-style: solid;
+        border-color: #00B7FF;
+        width: 150px;
+    }
+
+    p {
+        margin-top: 20px;
+        color: #797373;
+        font-size: 17px;
+        margin-bottom: 40px;
+    }
+
+     a {
+        text-decoration: none;
+        color: #00B7FF;
+        border-bottom: 3px solid #00B7FF;
+        border-radius: 2px;
+        font-size: 17px;
+     }
+
+}
+
+.break-line {
+    margin: 0 50vh;
+}
+
+.grid-pics {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(3,auto);
+    padding: 10vh;
+    padding-left: 17vh;
+}
+
+.pics {
+    width: 300px;
+    height: 300px;
+    box-shadow: 2px 2px 2px black;
+    transition: transform 1s;
+
+    img {
+        width: 300px;
+        height: 300px;
+    }
+}
+
+.pics:hover {
+    transform: scale(1.08);
+    transition: transform 1s;
+}
+
+.author {
+    text-align: left;
+    padding-right: 255px;
+}
+
+// .intro-text:nth-of-type(2) {
+//     color: royalblue;
+// }
+
+
+// -----------------------------------------
+
+.dynamic {
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    grid-gap: 30px;
+    padding: 15vh 0vh 15vh 43vh;
+    height: 40vh;
+
+    .dynamic-image {
+        width: 100%;
+        height: 300px;
+
+        img {
+            width: 450px;
+            height: 300px;
+            border-radius: 10px;
+        }
+    }
+
+    .dynamic-text {
+            width: 500px;
+            height: 300px;
+    }
+
+    .info {
+        color: #999999;
+        margin: 0;
+    }
+
+    h1 {
+        font-size: 25px;
+        margin: 0 auto;
+        text-transform: uppercase;
+        text-align: center;
+    }
+
+    hr {
+        border-style: solid;
+        border-color: #00B7FF;
+        width: 150px;
+    }
+
+    p {
+        margin-top: 20px;
+        color: #797373;
+        font-size: 17px;
+        margin-bottom: 40px;
+    }
+
+     a {
+        text-decoration: none;
+        color: #00B7FF;
+        border-bottom: 3px solid #00B7FF;
+        border-radius: 2px;
+        font-size: 17px;
+     }
+
+}
+
+
+// .intro-text:nth-of-type(2) {
+//     color: royalblue;
+// }
+
+.dynamic:nth-of-type(3) {
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    grid-gap: 30px;
+    padding: 15vh 43vh 15vh 5vh !important;
+    height: 40vh;
+}
