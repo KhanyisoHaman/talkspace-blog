@@ -2,8 +2,9 @@
   "name": "talkspace-blog",
   "version": "1.0.0",
   "description": "introduction to your website.............",
-  "main": "node app.js",
+  "main": "app.js",
   "dependencies": {
+    "cookie-parser": "^1.4.4",
     "jquery": "^3.3.1",
     "node-sass": "^4.11.0",
     "nodemon": "^1.18.10",
@@ -13,14 +14,14 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "blog"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KhanyisoHaman/talkspace-blog.git"
   },
   "keywords": [
-    "blog"
+    "talkspace-blog"
   ],
   "author": "Khanyiso Haman",
   "license": "ISC",

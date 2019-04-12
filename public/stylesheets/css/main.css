@@ -32,9 +32,18 @@ nav a {
   text-decoration: none;
   transition: font-weight 1s;
 }
-nav a:hover {
-  text-decoration: line-through;
-  transition: font-weight 1s;
+nav a::before {
+  content: "";
+  position: absolute;
+  background-color: black;
+  bottom: 0;
+  width: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: all 0.4s ease-in-out;
+}
+nav a:hover::before {
+  width: 100%;
 }
 nav .logo {
   text-transform: uppercase;

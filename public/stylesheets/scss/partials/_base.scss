@@ -37,9 +37,20 @@ header {
         transition: font-weight 1s,
     }
 
-    a:hover {
-        text-decoration: line-through;
-        transition: font-weight 1s,
+
+    a::before {
+        content: "";
+        position: absolute;
+        background-color: black;
+        bottom: 0;
+        width: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        transition: all .4s ease-in-out;
+    }
+
+    a:hover::before {
+        width: 100%;
     }
 
     .logo {
