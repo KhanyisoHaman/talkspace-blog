@@ -3,8 +3,13 @@ html {
 }
 
 body {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Source Sans Pro", sans-serif !important;
   margin: 0;
+  line-height: normal !important;
+}
+
+*, ::after, ::before {
+  box-sizing: content-box !important;
 }
 
 header {
@@ -285,6 +290,8 @@ footer {
   text-align: center;
   position: fixed;
   padding: 10px 15px;
+  opacity: 0;
+  visibility: hidden;
   z-index: 500;
   right: 25px;
   top: 530px;
@@ -295,6 +302,11 @@ footer {
 #button:hover {
   box-shadow: 2px 2px 2px black;
   text-shadow: 2px 2px 2px black;
+}
+
+#button.show {
+  visibility: visible;
+  opacity: 1;
 }
 
 /*# sourceMappingURL=main.css.map */

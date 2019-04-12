@@ -1,4 +1,4 @@
-# Example-Blog
+# Talkspace-Blog
 
 introduction to your website.............
 
@@ -29,7 +29,7 @@ conclusion..........
 
 ## Live Link
 
--  http://example-blog-example-blog.1d35.starter-us-east-1.openshiftapps.com/
+-  http://talkspace-blog-example-blog.1d35.starter-us-east-1.openshiftapps.com/
 
 ## Prevalent Technologies Used
 
@@ -38,6 +38,7 @@ conclusion..........
 - SCSS
 - JS
 - NODEjs
+- Ejs
 - JQUERY
 
 ### Other Technologies Used

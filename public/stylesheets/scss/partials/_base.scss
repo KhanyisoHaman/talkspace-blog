@@ -3,8 +3,13 @@ html {
 }
 
 body {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif !important;
     margin: 0;
+    line-height: normal !important;
+}
+
+*, ::after, ::before {
+     box-sizing: content-box !important;
 }
 
 
