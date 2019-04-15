@@ -1,21 +1,20 @@
 {
   "name": "talkspace-blog",
   "version": "1.0.0",
-  "description": "In this website we talk about issues and matters that many do not have the courage to talk about. This why I call it \"Talk Space\" this is a space where we actually talk\"",
+  "description": "introduction to your website.............",
   "main": "app.js",
   "dependencies": {
-    "bootstrap": "^4.3.1",
     "cookie-parser": "^1.4.4",
-    "http-errors": "^1.7.2",
     "jquery": "^3.3.1",
     "node-sass": "^4.11.0",
     "nodemon": "^1.18.10",
     "popper.js": "^1.14.7",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "bootstrap": "^4.3.1"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "talkspace"
   },
   "repository": {
     "type": "git",

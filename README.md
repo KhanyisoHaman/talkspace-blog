@@ -1,10 +1,10 @@
-# Talkspace-Blog
+# Example-Blog
 
-In this website we talk about issues and matters that many do not have the courage to talk about. This why I call it "Talk Space" this is a space where we actually talk"
+introduction to your website.............
 
-"Currently there is three blog that only have the introductory paragraphs...More will be coming soon"
+what you implemented and done..........
 
-"Please do not use the read more buttons they are not functioning yet"..........
+conclusion..........
 
 ## Watch db.json as test
 - json-server --watch db.json --port 3000 or 8000
@@ -29,7 +29,7 @@ In this website we talk about issues and matters that many do not have the coura
 
 ## Live Link
 
--  http://talkspace-blog-example-blog.1d35.starter-us-east-1.openshiftapps.com/
+-  http://example-blog-example-blog.1d35.starter-us-east-1.openshiftapps.com/
 
 ## Prevalent Technologies Used
 
@@ -38,7 +38,6 @@ In this website we talk about issues and matters that many do not have the coura
 - SCSS
 - JS
 - NODEjs
-- Ejs
 - JQUERY
 
 ### Other Technologies Used
