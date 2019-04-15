@@ -1,27 +1,28 @@
 {
   "name": "talkspace-blog",
   "version": "1.0.0",
-  "description": "introduction to your website.............",
+  "description": "In this website we talk about issues and matters that many do not have the courage to talk about. This why I call it \"Talk Space\" this is a space where we actually talk\"",
   "main": "app.js",
   "dependencies": {
     "cookie-parser": "^1.4.4",
     "jquery": "^3.3.1",
-    "node-sass": "^4.11.0",
     "nodemon": "^1.18.10",
+    "node-sass": "^4.11.0",
     "popper.js": "^1.14.7",
     "request": "^2.88.0",
     "bootstrap": "^4.3.1"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "blog"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KhanyisoHaman/talkspace-blog.git"
   },
   "keywords": [
-    "talkspace-blog"
+    "blog"
   ],
   "author": "Khanyiso Haman",
   "license": "ISC",
