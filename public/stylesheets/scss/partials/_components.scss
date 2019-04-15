@@ -25,5 +25,23 @@
     opacity: 1;
 }
 
+.scroll-down {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+    transition: all .5s ease-in-out;
+}
+
+.scroll-down:hover {
+    border: 2px solid;
+}
+
+.scroll-p {
+    margin-top: 57px;
+}
+
 
 // ------------------------------------------------

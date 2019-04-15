@@ -6,17 +6,17 @@
             "date": "12 March 2018",
             "title": "Baby Daddy",
             "image":  "/images/baby-22194_1920.jpg" ,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, earum aliquid non maiores maxime sit aspernatur, culpa temporibus accusamus quis animi deleniti nostrum! Doloremque pariatur deleniti labore, velit nisi quo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis ut beatae aut blanditiis, saepe non, quibusdam eligendi consequuntur doloribus iure neque officiis autem molestias, architecto quidem! Omnis eius dolores sequi!" ,
-            "author": "Justin"
+            "description": "While almost any man can father a child, there is so much more to the important role of being dad in a child's life. Fathers are central to the emotional well-being of their children; they are are capable caretakers and disciplinarians.Studies show that if your child's father is affectionate, supportive, and involved, he can contribute greatly to your child's cognitive, language, and social development, as well as academic achievement, a strong inner core resource, sense of well-being, good self-esteem, and authenticity." ,
+            "author": "Justin Creigthon"
         },
 
         {
             "id": 2,
-            "date": "13 March",
+            "date": "13 March 2018",
             "title": "Love Life",
             "image":  "/images/people-2561053_1920.jpg" ,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, earum aliquid non maiores maxime sit aspernatur, culpa temporibus accusamus quis animi deleniti nostrum! Doloremque pariatur deleniti labore, velit nisi quo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis ut beatae aut blanditiis, saepe non, quibusdam eligendi consequuntur doloribus iure neque officiis autem molestias, architecto quidem! Omnis eius dolores sequi!" ,
-            "author": "Westy"
+            "description": "In thinking about the different types of relationships, it is important to realize that you can have an intimate relationship with anyone. An intimate relationship is one in which you can truly be yourself with someone who you respect and are respected by in return. It is an emotional connection that can also be physical. It does not have to be in the context of a romantic or sexual relationship." ,
+            "author": "Jonathan Bush"
         },
 
         {
@@ -24,8 +24,8 @@
             "date": "14 March 2018",
             "title": "Praise and Worship",
             "image":  "/images/audience-868074_1920.jpg" ,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, earum aliquid non maiores maxime sit aspernatur, culpa temporibus accusamus quis animi deleniti nostrum! Doloremque pariatur deleniti labore, velit nisi quo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis ut beatae aut blanditiis, saepe non, quibusdam eligendi consequuntur doloribus iure neque officiis autem molestias, architecto quidem! Omnis eius dolores sequi!" ,
-            "author": "Imraan"
+            "description": "You've probably heard someone at church say, 'We are going to have Praise and Worship.'What once began as a simple catchphrase to attract people towards Christian music has morphed into vague Christian-ese. We’ve tossed the phrase around without stopping to consider the meaning behind the words. The unintended result is that music, one of God’s gifts to aid us in worshiping, has for many become an end in itself." ,
+            "author": "Imraan Meyer"
         }
     ],
 
