@@ -1,10 +1,10 @@
 # Talkspace-Blog
 
-introduction to your website.............
+In this website we talk about issues and matters that many do not have the courage to talk about. This why I call it "Talk Space" this is a space where we actually talk"
 
-what you implemented and done..........
+"Currently there is three blog that only have the introductory paragraphs...More will be coming soon"
 
-conclusion..........
+"Please do not use the read more buttons they are not functioning yet"..........
 
 ## Watch db.json as test
 - json-server --watch db.json --port 3000 or 8000
