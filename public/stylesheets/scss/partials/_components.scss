@@ -43,5 +43,18 @@
     margin-top: 57px;
 }
 
+#lovers {
+    position: absolute;
+    z-index: 2;
+    transform: translate(38em, 28em);
+    opacity: 0;
+}
+
+#worship {
+    position: absolute;
+    z-index: 2;
+    transform: translate(38em,54em);
+    opacity: 0;
+}
 
 // ------------------------------------------------
